@@ -1,20 +1,9 @@
-# Version X
-Smoother and **more optimized**
+# Version X.1
+Added 75% essential compatablity (GUI **doesn't bug anymore**)
 
-Complete **UI revamp**
+Rebranded to **Astro**
 
-Added toggle mods
+Updated UI to be **better**
 
-Toggled essential **off by default**
+Cleaned up and **removed a lotta mods**
 
-Added **pause message**
-
-**Fixed** so much **bugs**
-
-Re-added **continue button**
-
-Added **account switcher**
-
-Added **time** in top left
-
-**Too much** stuff to write
