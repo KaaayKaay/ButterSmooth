@@ -1,9 +1,11 @@
-# Version X.1
-Added 75% essential compatablity (GUI **doesn't bug anymore**)
+# Version X.2
 
-Rebranded to **Astro**
+Added **profile**
 
-Updated UI to be **better**
+**Rounded Buttons**
 
-Cleaned up and **removed a lotta mods**
+**Fixed** a few **bugs**
+
+Too much stuff lmao
+
 
