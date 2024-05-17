@@ -1,4 +1,4 @@
-# Version X.3 [BETA]
+# Version X.3
 
 Replaced the button texture with a lighter, higher resolution, less buggy and more rounded vertsion
 
