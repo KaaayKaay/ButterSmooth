@@ -1,11 +1,27 @@
-# Version X.2
+# Version X.3 [BETA]
 
-Added **profile**
+Replaced the button texture with a lighter, higher resolution, less buggy and more rounded vertsion
 
-**Rounded Buttons**
+Added "Get Help" button to the Title screen
 
-**Fixed** a few **bugs**
+Cleaned up the Title screen
 
-Too much stuff lmao
+Removed essential (FINALLY UR KEYBINDS ARE NOT BROKEN ANYMORE)
 
+Added and integrated "e4mc" and "No Chat Reports"
 
+The "YOUR PC IS READY FOR HIGH RENDER DISTANCES WITH *NO LAG*" screen is now interactable, allowing you to view cortex's profile and her mod "Nvidium" from within Astro
+
+Added the "Astro Assistant" AKA "AA" feature, allowing for you to quickly find answers to your questions without leaving Minecraft
+
+Revamped the server select screen
+
+Added new options to the "Quick Options"
+
+Started development on the "Astro Compatability" resource pack - a pack to make the Astro-themed UI work across "unsupported screens"
+
+Tweaked many menus
+
+Started development on the "Host Options" - inspired by legacy console edition
+
+Fixed most bugs reported on X.2 and X.1
